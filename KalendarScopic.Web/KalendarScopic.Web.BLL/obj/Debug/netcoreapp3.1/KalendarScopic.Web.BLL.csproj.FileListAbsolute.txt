@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\bin\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.deps.json
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\bin\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.dll
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\bin\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.pdb
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\bin\Debug\netcoreapp3.1\KalendarScopic.Web.DAL.dll
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\bin\Debug\netcoreapp3.1\KalendarScopic.Web.Models.dll
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\bin\Debug\netcoreapp3.1\KalendarScopic.Web.DAL.pdb
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\bin\Debug\netcoreapp3.1\KalendarScopic.Web.Models.pdb
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\obj\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\obj\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\obj\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.AssemblyInfo.cs
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\obj\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\obj\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.csproj.CopyComplete
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\obj\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.dll
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.BLL\obj\Debug\netcoreapp3.1\KalendarScopic.Web.BLL.pdb

@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.Models\bin\Debug\netcoreapp3.1\KalendarScopic.Web.Models.deps.json
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.Models\bin\Debug\netcoreapp3.1\KalendarScopic.Web.Models.dll
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.Models\bin\Debug\netcoreapp3.1\KalendarScopic.Web.Models.pdb
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.Models\obj\Debug\netcoreapp3.1\KalendarScopic.Web.Models.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.Models\obj\Debug\netcoreapp3.1\KalendarScopic.Web.Models.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.Models\obj\Debug\netcoreapp3.1\KalendarScopic.Web.Models.AssemblyInfo.cs
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.Models\obj\Debug\netcoreapp3.1\KalendarScopic.Web.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.Models\obj\Debug\netcoreapp3.1\KalendarScopic.Web.Models.dll
+C:\Users\PC\Desktop\repo\Kalendarscopic\KalendarScopic.Web\KalendarScopic.Web.Models\obj\Debug\netcoreapp3.1\KalendarScopic.Web.Models.pdb

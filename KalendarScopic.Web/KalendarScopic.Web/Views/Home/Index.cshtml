@@ -1,0 +1,112 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div id="cal-wrap">
+    <!-- [PERIOD SELECTOR] -->
+    <div id="cal-date">
+        <select id="cal-mth">
+            <option value="1">January</option>
+            <option value="2">February</option>
+            <option value="3">March</option>
+            <option value="4">April</option>
+            <option value="5">May</option>
+            <option value="6">June</option>
+            <option value="7">July</option>
+            <option value="8">August</option>
+            <option value="9">September</option>
+            <option value="10">October</option>
+            <option value="11">November</option>
+            <option value="12">Dezember</option>
+        </select>
+
+        <select id="cal-yr">
+            <option value="2021">2021</option>
+            <option value="2022">2022</option>
+            <option value="2023">2023</option>
+            <option value="2024">2024</option>
+            <option value="2025">2025</option>
+        </select>
+        <input id="cal-set" type="button" value="SET" onclick="daysInMonth()" />
+    </div>
+
+    <!-- [CALENDAR] -->
+    <div id="cal-container"></div>
+
+    <!-- [EVENT] -->
+    <div id="cal-event"></div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="eventModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="exampleModalLabel">Modal title</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-8">
+                        <h6>Your events</h6>
+                        <div id="eventEdit">
+
+
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <br />
+                <div class="row">
+                    <div class="col-md-8">
+                        <h6>New event</h6>
+                        <div id="eventNew">
+                            <form id="eventNewForm" method="post" autocomplete="off">
+                                @Html.ValidationSummary(null, new { @class = "text-danger" })
+                                <div hidden class="form-group">
+                                    <input class="form-control" type="text" name="AuthorId" id="AuthorId" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-form-label" for="Title">Title:</label>
+                                    <input class="form-control" type="text" name="Title" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-form-label" for="Description">Description:</label>
+                                    <input class="form-control" type="text" name="Description" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-form-label" for="StartTime">Start Time:</label>
+                                    <input class="form-control" type="datetime" name="StartTime" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-form-label" for="EndTime">End Time:</label>
+                                    <input class="form-control" type="datetime" name="EndTime" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-form-label" for="Tag">Tag:</label>
+                                    <input class="form-control" type="text" name="Tag" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-form-label" for="IsGroup">GroupMeeting:</label>
+                                    <input class="form-control" type="text" name="IsGroup" valeu="Y" />
+                                </div>
+                                <div class="form-group">
+                                    <input class="btn btn-success" type="submit" value="Register" />
+                                </div>
+
+
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
